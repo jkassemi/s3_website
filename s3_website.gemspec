@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'simple-cloudfront-invalidator', '~> 1'
   s.add_dependency 'erubis', '~> 2.7.0'
   s.add_dependency 'mime-types', '~> 1'
-  s.add_dependency 'thor', '= 0.18.1'
+  s.add_dependency 'thor', '~> 0.19.1'
   s.add_dependency 'configure-s3-website', '= 1.5.5'
   s.add_dependency 'zopfli', '~> 0.0.3'
 
